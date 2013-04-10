@@ -1,0 +1,13 @@
+FACT_STATEMENT	Outrage and criticism notwithstanding, Brad Paisley has been standing by the lyrics of his new controversial song "Accidental Racist."
+FACT_STATEMENT	The singer took to Twitter to tell followers that he "wouldn't change a thing," about the song, in which he describes a conversation between a Southern white man and a "black Yankee" about modern race relations.
+JUNK	RELATED: 'ACCIDENTAL RACIST' SPARKS OUTRAGE, RIDICULE
+FACT_STATEMENT	And, in an interview with Parade Magazine, collaborator LL Cool J sticks by Paisley's new single.
+THIRD_PARTY_QUOTE	"Brad's not afraid to express himself," LL Cool J said. "What other country artist, or any artist right now, talks about slavery?"
+JUNK	RELATED: BRAD PAISLEY RESPONDS TO ‘ACCIDENTAL RACIST’ BACKLASH
+FACT_STATEMENT	Paisley, 40, defends his song as a way to present both perspectives on a hot-button issue.
+THIRD_PARTY_QUOTE	"How do you show your Southern pride and not be misunderstood?" Paisley asked. "There were some things I wanted to say from my perspective as a Southerner, like, 'Contrary to what some people may think about Southerners who fly the Rebel flag or wear it, I hate slavery. I hate the fact that it happened.'"
+JUNK	RELATED: LL COOL J RETURNS TO ‘NCIS’ SET AFTER KNOCKING OUT BURGLAR
+FACT_STATEMENT	Paisley hoped that his single with LL Cool J, part of his upcoming album "Officially Alive," would make his audience think hard about American history.
+THIRD_PARTY_QUOTE	"We aren't answering [question]. We're just asking them," Paisley continued.
+OPINION	"Accidental Racist" has provoked plenty of questions in return, mostly of the "What were they thinking?" variety.
+JUNK	Read more: http://www.nydailynews.com/entertainment/music-arts/ll-cool-defends-brad-paisley-accidental-racist-lyrics-article-1.1312044#ixzz2Q14SoCxx

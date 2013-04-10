@@ -1,0 +1,29 @@
+FACT_STATEMENT	Rescue teams have been sent to the affected area, but darkness is hampering rescue operations.
+FACT_STATEMENT	The quake struck 90km (60 miles) south of the country's only nuclear power station in Bushehr, the US Geological Survey (USGS) says.
+FACT_STATEMENT	However, the nuclear plant has not been affected and is working normally, officials have said.
+FACT_STATEMENT	The quake was felt across the Gulf in Dubai, Abu Dhabi and Bahrain.
+FACT_STATEMENT	Bushehr's governor Fereydun Hasanvand told Iranian television that of those wounded, 750 had "minor injuries" and the rest had been sent to provincial hospitals.
+FACT_STATEMENT	Some 10,000 people are thought to live in the affected area in more than 50 villages, two of which have reportedly been completely levelled.
+FACT_STATEMENT	Mr Hasanvand said 700 houses have been damaged and 200 families affected.
+FACT_STATEMENT	The governor's office has sent generators to the area so rescue operation can continue overnight, the BBC's Mohsen Asgari in Tehran reports.
+FACT_STATEMENT	Iran's Red Crescent organisation hopes to end the rescue operation by daybreak, our correspondent adds.
+FACT_STATEMENT	Seismologists said the quake struck at 16:22 (11:52 GMT) at a depth of 10km (6.2 miles) near the town of Kaki, south of Bushehr - a Gulf port city that is home to Iran's first and only nuclear power plant.
+FACT_STATEMENT	Iran's seismological centre in Bushehr province, linked to Tehran University, registered the quake at a magnitude of 6.1.
+JUNK	Continue reading the main story
+JUNK	Start Quote
+THIRD_PARTY_QUOTE	It was a very strange sensation, rather like being on a rocking boat”
+JUNK	Phil Stevens
+JUNK	Office worker in Abu Dhabi
+JUNK	In pictures: Bushehr earthquake
+JUNK	Fault line
+FACT_STATEMENT	Tens of aftershocks - the strongest measuring a magnitude of 5.4 - struck within an hour, sending many people into the streets for safety.
+FACT_STATEMENT	State media reported that phone lines had been brought down by the quake and its aftershocks.
+FACT_STATEMET	The earthquake shook buildings across the Gulf.
+THIRD_PARTY_QUOTE	"Our entire building started to wobble from side to side for around 30 seconds or so," Phil Stevens, working on the 10th floor of a building in Abu Dhabi, told the BBC.
+THIRD_PARTY_QUOTE	"It was a very strange sensation, rather like being on a rocking boat. We evacuated our office and quickly learned of the earthquake in Iran."
+FACT_STATEMENT	The governor of Bushehr, Fereydoun Hassanvand, told Iranian state TV that the nuclear plant was not damaged.
+THIRD_PARTY_QUOTE	An official with the Russian firm Atomstroyexport told Russian media that the quake "in no way affected the normal situation at the reactor".
+THIRD_PARTY_QUOTE	"Personnel continue to work in the normal regime and radiation levels are fully within the norm," the official was quoted by Russian state news agency Ria as saying.
+BACKGROUND	Iran's nuclear programme has roused concern among major powers that Tehran wants to build nuclear weapons - a charge Iran strongly denies.
+FACT_STATEMENT	Iran straddles a major geological fault line, making it prone to seismic activity. 
+BACKGROUND	In 2003, an earthquake in the city of Bam left more than 25,000 people dead.

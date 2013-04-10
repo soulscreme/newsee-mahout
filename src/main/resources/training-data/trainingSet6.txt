@@ -1,0 +1,18 @@
+FACT_STATEMENT	The Federal Bureau of Investigation said Tuesday it is probing the circumstances surrounding a February audio recording in which aides to Sen. Mitch McConnell discussed how to launch a political attack against actress Ashley Judd, at the time a potential contender for Mr. McConnell's seat.
+FACT_STATEMENT	The recording along with an article was posted Tuesday on the website of the left-leaning magazine Mother Jones.
+FACT_STATEMENT	Mr. McConnell's campaign said it became aware of the recording when called by Mother Jones Monday night.
+FACT_STATEMENT	The Kentucky Republican senator's campaign asked for the FBI probe and criticized the release of the recording, which Mother Jones said was made on Feb. 2 in Louisville.
+THIRD_PARTY_QUOTE	"There were illegal, immorally made recordings of private meetings at our campaign headquarters," a McConnell campaign spokesman said Tuesday.
+FACT_STATEMENT	Mother Jones said it was provided the tape by someone who wanted to remain anonymous. 
+THIRD_PARTY_QUOTE	"It is our understanding that the tape was not the product of any kind of bugging operation," it said in a statement.
+OPINION	An FBI spokesman confirmed the probe but declined to elaborate.
+FACT_STATEMENT	Mr. McConnell is up for re-election in 2014, in a race that is closely watched because he is the highest-ranking Senate Republican. 
+FACT_STATEMENT	Ms. Judd said last month that she wouldn't run.
+THIRD_PARTY_QUOTE	The recording of the McConnell strategy session begins with the senator himself saying, "I assume most of you have played the, the game Whac-A-Mole? This is the Whac-A-Mole period of the campaign," to try to identify and attack potential contenders, according to a transcript posted by Mother Jones.
+THIRD_PARTY_QUOTE	"Unbeknownst to us they were bugging our headquarters—quite a Nixonian move. This is what you get from the political left in America," Mr. McConnell told reporters on Tuesday.
+FACT_STATEMENT	On the audio released by Mother Jones, McConnell aides allegedly laugh about Ms. Judd's mental-health issues, which she has been publicly open about, and discuss how they can be used in a campaign against her.
+FACT_STATEMENT	The Democratic Senatorial Campaign Committee criticized the aides' comments. 
+THIRD_PARTY_QUOTE	Mr. McConnell should "apologize to the millions of Americans who suffer from depression and don't believe it's a laughing matter," said the committee's executive director, Guy Cecil. 
+THIRD_PARTY_QUOTE	He said Mr. McConnell was "desperate to play the victim."
+THIRD_PARTY_QUOTE	A spokeswoman for Ms. Judd said, "This is yet another example of the politics of personal destruction that embody Mitch McConnell and are pervasive in Washington, D.C."
+BACKGROUND	Mother Jones also released a recording last year of Republican presidential candidate Mitt Romney talking about the 47% of Americans who were "dependent on government."

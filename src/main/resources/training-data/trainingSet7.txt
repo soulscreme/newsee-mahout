@@ -1,0 +1,35 @@
+FACT_STATEMENT	BRUSSELS — When the European competition commissioner needs to communicate with the chairman of Google, he doesn’t have to send an emissary or even pick up the phone.
+JUNK	More Tech Coverage
+JUNK	News from the technology industry, including start-ups, the Internet, enterprise and gadgets.
+JUNK	On Twitter: @nytimesbits.
+FACT_STATEMENT	Joaquín Almunia sometimes sends Eric E. Schmidt a text.
+BACKGROUND	Like his predecessors, Mr. Almunia has the power to block mergers or fine companies billions of dollars. 
+BACKGROUND	But where he differs is in how comfortable he is in communicating with executives across the table — or the ocean — to negotiate settlements that avoid long battles.
+THIRD_PARTY_QUOTE	“I have an open phone line, or e-mail line, or SMS line at any moment,” Mr. Almunia said in an interview Monday.
+FACT_STATEMENT	Mr. Almunia, 64, served as the European Union’s commissioner for economic and monetary affairs before being appointed four years ago as the bloc’s competition commissioner. 
+OPINION	The post is likely to be his last job in Brussels and he does not foresee a return to politics in Spain, where he led the Socialists to defeat in 2000 before resigning as party leader.
+BACKGROUND	But the formal complaint that recently hit his desk, focusing on how Google runs its mobile software business, is the latest sign that Mr. Almunia remains the go-to figure for antitrust enforcement in the world’s technology sector.
+FACT_STATEMENT	That complaint, filed by a coalition of companies including Microsoft and Nokia, accuses Google of using the Android mobile operating system to promote its own products and services in a majority of smartphones sold to consumers.
+FACT_STATEMENT	Mr. Almunia still must decide whether to take up the new complaint, which landed just as he appeared to be reaching the final stages of settlement talks with Google over the way it conducts its search and advertising business. 
+OPINION	But the case is growing in importance, given the rise of mobile computing.
+OPINION	In recent years, the European Commission has become a defender of fair play in computing and communications, even as regulatory bodies with far more experience — notably those in the United States — have grown squeamish about using antitrust law to pry concessions from some of the world’s most dynamic companies. 
+FACT_STATEMENT	Unlike his American counterparts, Mr. Almunia can decide punishments without judicial approval.
+BACKGROUND	He has made a point of avoiding public showdowns with chief executives, or seemingly endless litigation. 
+OPINION	Indeed, he has made negotiation, rather than confrontation, a hallmark of his term in office to avoid dust-ups with giants like Microsoft and Intel, which were the subject of bitter, decade-long investigations. 
+BACKGROUND	The change of approach has been most noticeable in the inquiry into Google’s search and advertising business.
+FACT_STATEMENT	Less than three years after formally opening the case, Mr. Almunia said this week that he would test proposals submitted by Google aimed at making it easier for people to distinguish when the company was proposing its own services — the strongest sign yet that the investigation into Google’s search business would end in a settlement and without a fine or a finding of guilt.
+FACT_STATEMENT	Even as his officials burrowed into the inner workings of Google’s hugely successful search and advertising businesses, Mr. Almunia met and spoke with Mr. Schmidt and called other senior representatives, like David C. Drummond, the company’s chief legal officer, to update them.
+OPINION	His willingness to meet with executives to forge relationships and to gain knowledge about the sector also extends to figures like Sheryl Sandberg, the chief operating officer of Facebook. 
+THIRD_PARTY_QUOTE	At a meeting with Ms. Sandberg in January at the World Economic Forum in Davos, Switzerland, the two discussed “the relationship between the search activity and the social network’s activity, but they were general conversations,” Mr. Almunia said.
+OPINION	Not everyone is happy with how European antitrust enforcement is evolving.
+BAKGROUND	Mr. Almunia’s approach has frustrated companies like Foundem, a British online comparison-shopping site, which brought one of the original complaints about the way Google runs its search and advertising businesses.
+BACKGROUND	Last month, Foundem, along with companies including TripAdvisor and the powerful Federation of German Newspaper Publishers, asked Mr. Almunia to force Google to “hold all services, including its own, to exactly the same standards, using exactly the same crawling, indexing, ranking, display and penalty algorithms.” 
+BACKGROUND	The complainants suggested that Google would make such concessions only if it faced formal charges, called a statement of objections.
+THIRD_PARTY_QUOTE	A few days earlier, Fleur Pellerin, the French minister for digital affairs, told a French Senate committee hearing that Google “apparently systematically favors” Web sites it controls. 
+THIRD_PARTY_QUOTE	“I hope that the European Commission will not compromise,” she said.
+FACT_STATEMENT	Mr. Almunia batted away the suggestion that he was not standing up to Google, particularly after the United States Federal Trade Commission decided in January to end a 19-month inquiry into how the company operated its search engine with a finding that it had not broken antitrust laws.
+THIRD_PARTY_QUOTE	“I don’t feel that I am losing my nerve,” he said. Instead he suggested that some of the complainants had unrealistic expectations.
+THIRD_PARTY_QUOTE	“It’s obvious that not everybody has the same merits,” he said. “Antitrust decisions cannot eliminate these merits and put everyone in the same position.”
+BACKGROUND	One reason complainants tend to knock on the door in Brussels first is that European competition law is based on a tradition of protecting smaller businesses to ensure choice and defend against abuses. 
+BACKGROUND	American enforcers, at least in recent decades, have tended to avoid intervention without strong evidence that consumers were harmed.
+OPINION	That is something of a sore point for the Europeans like Mr. Almunia, who are at pains to insist they share the same goals as the Americans when it comes to consumer welfare.

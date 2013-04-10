@@ -1,0 +1,40 @@
+FACT_STATEMENT	CHICAGO (AP) — Former Illinois state Rep. Robin Kelly, whose campaign received a $2 million boost from New York City Mayor Michael Bloomberg, easily captured Tuesday's special election to replace former U.S. Rep. Jesse Jackson Jr.
+FACT_STEMENT	The win for the Matteson Democrat was widely expected as the Chicago-area district, which Jackson represented from 1995 until late last year, has been a Democratic stronghold for roughly six decades. 
+FACT_STATEMENT	Kelly emerged from a crowded field in the February primary by focusing heavily on anti-gun efforts and was helped by ads from Bloomberg's super PAC.
+FACT_STATEMENT	Kelly, 56, vowed to become a leader in the federal fight for gun control legislation and echoed the same promise after her win.
+THIRD_PARTY_QUOTE	"I'll continue to speak about it in the district. I'll continue to be in touch with those who have lost their children. I'll speak out where I can in D.C.," she told The Associated Press before her victory speech to supporters in Matteson.
+FACT_STATEMENT	She easily won over Republican community activist Paul McKinley, three independent candidates and a Green Party candidate in the district that includes Chicago neighborhoods, suburbs and rural areas.
+OPINION	Her win also marked the end of an era for the voters that had supported Jackson at the polls with healthy majorities each election after he took office. 
+FACT_STATEMENT	Jackson, a Chicago Democrat, stepped down in November after a mysterious medical leave where full details were never disclosed to the public. 
+FACT_STATEMENT	He cited his health and also acknowledged that he was under federal investigation in his resignation letter.
+FACT_STATEMENTMonths later — as campaigning to replace him was ramping up — he pleaded guilty to charges that he misspent $750,000 in campaign funds on everything from toilet paper to furs.
+BACKGROUND	Jackson was the third congressman in the district to leave under an ethical cloud and many voters said Tuesday that they were just ready for a change.
+THIRD_PARTY_QUOTE	"It hurt my heart. I had him up here on a pedestal," said Robert Pierson, a Dolton resident who cast a ballot for Kelly on Tuesday. "I hope this time we are going to get it right."
+FACT_STATEMENT	Other voters said it was Kelly's attention to anti-gun efforts that made her an attractive candidate. 
+FACT_STATEMENT	Guns became the top issue during the campaign — particularly before the primary — and ads from Bloomberg's super PAC played up that Kelly supports an assault weapons ban. 
+FACT_STATEMENT	The television spots also targeted one of her primary opponents, former one-term U.S. Rep. Debbie Halvorson, who has received favorable ratings in the past from the National Rifle Association.
+OPINION	Some voters, and certainly Kelly's candidates, questioned the outside involvement in the race. 
+FACT_STATEMENT	There were allegations of Kelly colluding with Bloomberg. 
+FACT_STATEMENT	She later dismissed any notions of working with Bloomberg, which is prohibited.
+OPINION	However, some voters on Tuesday said they didn't mind Bloomberg's involvement, particularly on the issue of guns and violence. 
+BACKGROUND	The election comes as Chicago has seen an uptick in murders.
+THIRD_PARTY_QUOTE	"Mayor Bloomberg, he's for right," said 62-year-old suburban Chicago voter Ted Norwood, who cast a vote for Kelly. "He speaks for everybody."
+FACT_STATEMENT	After her primary win, Kelly received praise from Bloomberg and Vice President Joe Biden, and she recently received an endorsement from President Barack Obama, who noted her anti-gun efforts.
+OPINION	When Kelly heads to Washington she will face other challenges. 
+FACT_STATEMENT	She'll be taking over after Jackson, a nearly 17-year incumbent with a spot on the powerful House Appropriations Committee.
+BACKGORUND	Despite Jackson's legal problems at the end of his career — he was under a House Ethics Committee investigation for ties to ex-Gov. Rod Blagojevich — he brought home close to $1 billion in federal money to the district. 
+BACKGROUND	He also had strong ties with community leaders and a family legacy. 
+BACKGROUND	His was a former Chicago City Council member and he's the son of the civil rights leader, the Rev. Jesse Jackson.
+FACT_STATEMENT	Kelly has said she's ready for the challenge and had already considered where to set up constituent offices in the district that overlaps with some of her old legislative district. 
+FACT_STATEMENT	Kelly served two terms as a representative in the Illinois House.
+FACT_STATEMENT	Voter turnout was low in several parts of the district. 
+FACT_STATEMENT	Tuesday's special election coincided with municipal elections — not including Chicago, which elected its mayor and City Council in 2011. 
+FACT_STATEMENT	Early estimates for city precincts were roughly 8 percent with an anticipated 12 percent by the end of the day. 
+FACT_STATEMENT	Election officials said turnout was higher than the 2009 special election to replace Rahm Emanuel, who left Congress to be President Obama's chief of staff. 
+BACKGROUND	In that year, roughly 10 percent of city voters went to the polls.
+FACT_STATEMENT	Turnout was higher in the suburbs, particularly areas with contested municipal elections.
+FACT_STATEMENT	Jackson, who has stayed out of the public eye since his medical leave last summer, has not emerged publicly since his federal court hearing in February, where his wife Sandi Jackson also pleaded guilty. 
+FACT_STATEMENT	He faces up to 57 months — more than four years — in prison and a fine, under a plea deal with prosecutors.
+JUNK	___
+JUNK	Contact Sophia Tareen at https://www.twitter.com/sophiatareen .
+JUNK	Copyright 2013 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.

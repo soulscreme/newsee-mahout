@@ -1,0 +1,42 @@
+FACT_STATEMENT	At least 15 people were injured and a suspect was in custody after a stabbing at the Cy-Fair campus of Lone Star College Tuesday morning.
+FACT_STATEMENT	The suspect is Dylan Quick, 20, a law enforcement source told the Chronicle.
+FACT_STATEMENT	The stabbings happened about 11:20 a.m. at the campus at 9191 Barker Cypress, according to the Harris County Sheriff's Office.
+FACT_STATEMENT	Deputy Thomas Gilliland, spokesman for the Sheriff's Office, said one suspect was detained after he was wrestled to the ground by a student.
+FACT_STATEMENT	Sheriff Adrian Garcia initially said in a statement that the suspect was a 21-year-old student. 
+THIRD_PARTY_QUOTE	"The entire campus is being searched for evidence," the statement said.
+JUNK	Ads by Google
+JUNK	Web Development Masters
+JUNK	Earn an MS in Info Systems- Online! Focus in Web & Mobile Development.
+JUNK	misdegree.businessdegrees.uab.edu
+JUNK	ONLC Training Centers
+JUNK	300+ Locations or Online Training. Official Site. Find Your Class Now!
+JUNK	www.ONLC.com
+JUNK	Guaranteed best Alarm
+JUNK	Get a top of the line home security system. Free Installation!
+JUNK	aaahomesecuritydallas.com
+FACT_STATEMENT	The incident happened near the campus Health Science Center, according to an alert on the college website.
+FACT_STATEMENT	Capt. Robert Rasa of the Cy-Fair Volunteer Fire Department said 12 people were rushed to area hospitals after the stabbings while three others were treated on the scene. 
+FACT_STATEMENT	He said many of the injuries were stab wounds to the face and neck area.
+FACT_STATEMENT	Six patients were taken to the Memorial Hermann Texas Trauma Institute, which is part of Memorial Hermann - Texas Medical Center, said hospital spokeswoman Alejandra Rodriguez. Four of those patients were transported by Life Flight medical helicopter and two were taken by ground ambulance, she said.
+FACT_STATEMENT	At midafternoon Tuesday, two of the patients at Hermann were in critical condition, three were upgraded to good condition and one was discharged, Rodriguez said.
+FACT_STATEMENT	The other hospitalized victims had minor injuries and were taken to North Cypress Medical Center, Rasa said.
+FACT_STATEMENT	Gilliland said investigators were trying to determine what sparked the stabbings, but they appeared to be random. 
+FACT_STATEMENT	No weapon has been found and initial reports indicate the suspect may have used a knife or pencil.
+FACT_STATEMENT	Students could be seen running away from buildings and the campus was locked down as police searched for a potential second attacker and relayed the news to other students.
+FACT_STATEMENT	Two buildings were affected.
+FACT_STATEMENT	Michelle Alvarez saw the attacker running toward other students and tried to back out of the way. 
+FACT_STATEMENT	She said she didn't even feel it as he swiped her neck. 
+FACT_STATEMENT	There was a small red line running down her wind pipe.
+THIRD_PARTY_QUOTE	"He came running and swinging at my neck, as I tried to get out of the way," she said.
+FACT_STATEMENT	Cassius Roberts, 22, said he saw a man running with several people chasing and trying to stop him. 
+FACT_STATEMENT	He didn't know what was going on as he walked from the building to his car. 
+FACT_STATEMENT	He returned to campus and saw a victim with her mouth slashed open. 
+FACT_STATEMENT	He saw a student wrestle the suspect to the ground.
+THIRD_PARTY_QUOTE	"When I was walking down the halls, I was just looking over my shoulder and left feeling wary of everything," he said. "As the story unfolded I realized it was horrible."
+FACT_STATEMENT	Laura Pedraza, 19, said she saw everyone running and screaming and crying and suddenly the campus was locked down. She was at the scene in the aftermath of the attack.
+THIRD_PARTY_QUOTE	"It was really scary," she said. "We didn't know what was going on."
+FACT_STATEMENT	This is the second incident in recent months at the college.
+BACKGROUND	On Jan. 22, three people were wounded in a shooting at the college's North Harris campus in the 2700 block of W. W. Thorne. Confusion initially surrounded that incident, with one of the victims being erroneously charged in the shooting. 
+BACKGROUND	Later, charges were dropped against him and deputies identified the gunmen as Trey Foster, who was then arrested and charged in the incident.
+FACT_STATEMENT	The Cy-Fair campus serves about 19,000 students. 
+FACT_STATEMENT	It is one of six campuses that make up Lone Star, which touts itself as the fast-growing community college system in the nation.

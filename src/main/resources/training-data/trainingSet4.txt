@@ -1,0 +1,21 @@
+FACT_STATEMENT	At least 14 people were hurt Tuesday in a stabbing spree at a Texas community college apparently carried out by a student, authorities said. 
+FACT_STATEMENT	Sheriff’s officials said the suspect was in custody.
+FACT_STATEMENT	At least two victims were in critical condition. 
+FACT_STATEMENT	It was not immediately clear how severe the other injuries were. 
+FACT_STATEMENT	The stabbing happened at the CyFair campus of Lone Star College, in the Houston suburb of Cypress.
+FACT_STATEMENT	The school said the attack happened “in and around” its health science building. 
+FACT_STATEMENTE	Harris County Sheriff Adrian Garcia said that authorities were not certain what the weapon or motive was. 
+FACT_STATEMENT	He said the suspect was 21 years old.
+FACT_STATEMENT	Memorial Hermann Texas Trauma Institute said it had two patients in critical condition and six in all, including four flown there by helicopter. 
+FACT_STATEMENT	Three patients were upgraded to good condition Tuesday evening and one had been discharged.
+FACT_STATEMENT	A spokeswoman for another hospital, North Cypress Medical Center, said it had taken six stabbing victims who were in stable condition.
+FACT_STATEMENT	Two other victims were treated at the scene and declined to be taken to the hospital, the sheriff said.
+FACT_STATEMENT	The school closed for the day and ordered students to find shelter somewhere safe. 
+FACT_STATEMENT	Campus police caught the suspect, the Harris County Sheriff’s Office said. 
+FACT_STATEMENT	The school planned to open Wednesday.
+FACT_STATEMENT	The stabbing happened just after 11 a.m., a college official said. 
+FACT_STATEMENT	The school had warned students that a second suspect might be at large, but sheriff’s officials said later that they believed they had the only suspect in custody.
+BACKGROUND	In January, three people were shot at a separate campus of the same college. 
+BACKGROUND	A federal official said that those shootings appeared to be gang-related. 
+BACKGROUND	A 22-year-old man was charged with aggravated assault.
+FACT_STATEMENT	The Lone Star system of colleges has 90,000 students in all.

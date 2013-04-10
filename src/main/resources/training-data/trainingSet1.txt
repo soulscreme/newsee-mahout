@@ -1,0 +1,38 @@
+FACT_STATEMENT	Just as authorities suspected, a couple accused of kidnapping their own children sailed to Cuba, where they are hunkered down inside their boat at a Havana marina.
+FACT_STATEMENT	Josh and Sharyn Hakken of Louisiana had lost custody of their two boys, whose grandmother was given legal custody. 
+FACT_STATEMENT	U.S. authorities have been on a manhunt for the Hakkens after the boys were snatched from the grandmother's Florida home last week.
+OPINION	One of the few clues officials revealed was about a sailboat with the name Salty that the family may have used to flee to Cuba.
+FACT_STATEMENT	On Tuesday, CNN spotted the sailboat at the Hemingway Marina in Havana.
+OPINION	A man on board identified himself to CNN as Josh Hakken, but declined to answer questions.
+OPINION	Cuban security at the scene asked a CNN reported to leave.
+FACT_STATEMENT	The man, who fit Hakken's description, was with a woman who fits the description of his wife. 
+FACT_STATEMENT	A child was seen playing in the back of the blue sailboat.
+OPINION	The family survived a treacherous journey on rough seas to get to Cuba.
+FACT_STATEMENT	Authorities believe Josh Hakken abducted his sons Chase, 2, and Cole, 4, early Wednesday after breaking into the Florida home of the children's grandmother and tying her up.
+THIRD_PARTY_QUOTE	The U.S. Interest Section in Havana "is aware of this case and is in contact with local authorities to get more information," a State Department official in Washington told CNN Tuesday. 
+OPINION	The official would not comment further, citing "privacy considerations."
+OPINION	But a source close to the search told CNN that Cuban officials are cooperating with U.S. authorities in the case. 
+OPINION	The source declined to be named because of the sensitivity of the matter.
+OPINION	Some worry that recovering the children will be difficult.
+THIRD_PARTY_QUOTE	"Unfortunately, these parents and these poor children, these innocent ones, will now be in a country where there are no laws, there is no redress, and that has been a refuge for fugitives and wanted criminals for many years," Rep. Ileana Ros-Lehtinen, R- Florida, told CNN.
+OPINION	In Havana, Lynn Roche, an official with the U.S. Interest Section, said section officials couldn't discuss any case of an American who hasn't signed a privacy act waiver.
+OPINION	And an official with the Cuban Foreign Ministry said Monday evening that his agency was unaware of the case and had not received any requests for help from U.S. officials.
+BACKGROUND	The boys had been removed from the care of the Hakkens, last year, and on April 2, the couple's parental rights were terminated in Louisiana, investigators say.
+BACKGROUND	The abduction report triggered an Amber Alert for the children, but there were no reported sightings.
+FACT_STATEMENT	Josh Hakken, described as an anti-government protester, was believed to be armed, according to the Hillsborough County sheriff's office in Tampa, the site of last week's alleged abduction.
+BACKGROUND	There is no extradition treaty between Cuba and the United States, although there have been recent cases in which Americans sought for crimes in the United States and discovered in Havana have been sent back by the Cubans.
+BACKGROUND	The FBI currently estimates there are around 70 fugitives from U.S. justice in Cuba, which is one of the reasons Cuba remains on the U.S. list of countries that support state terrorism. 
+BACKGROUND	Most of the American fugitives in Cuba have been there for decades and have ties to revolutionary movements or radical groups.
+OPINION	Last week, the police department in Slidell, Louisiana, issued its own statement offering background on the Hakkens and why the boys were taken from the parents last year.
+BACKGROUND	In June of 2012, Slidell police responded to a disturbance report at a hotel where Josh and Sharyn Hakken were staying with their sons, the police statement said.
+THIRD_PARTY_QUOTE	"When police arrived, both Mr. and Mrs. Hakken were acting in a bizarre manner that alarmed officers. They were talking about 'completing their ultimate journey' and were traveling across the country to 'take a journey to the Armageddon'," the Slidell police statement said, adding, "Let it be noted that both of their children were present in the hotel room at the time."
+FACT_STATEMENTE	Because of the parents' behavior and "the fact that narcotics and weapons were located inside of the hotel room," the children were taken by child welfare officers, and Joshua Hakken was arrested on drug charges, the statement said.
+THIRD_PARTY_QUOTE	"Approximately two weeks later, Slidell Police were notified that Mr. Hakken had shown up to the foster family home ... with a firearm demanding the return of his children," the Slidell police statement continued. "The foster parents called 911, and Mr. Hakken fled without his children. We have heard nothing until (Wednesday)."
+FACT_STATEMENT	At some point over the past few months, the children were sent to Tampa to live with their grandmother, Patricia Hauser, the mother of Sharyn Hakken.
+THIRD_PARTY_QUOTE	"Somehow they found out where the kids were," said Detective Larry McKinnon of the Hillsborough County sheriff's office.
+FACT_STATEMENT	Sheriff's investigators say Josh Hakken entered Hauser's home at 6:30 a.m. last Wednesday. 
+FACT_STATEMENT	She told police that he tied her up and fled with the children in her silver 2009 Toyota Camry. 
+FACT_STATEMENT	That vehicle was found later that day just a couple of blocks away from the home.
+FACT_STATEMENT	Those investigators told CNN they believe Hakken joined up with his wife, who was waiting in their pickup truck, and the family drove to a parking garage. 
+FACT_STATEMENT	A short time later, investigators said, Hakken is believed to have taken a sailboat out of a private slip in nearby Madeira Beach.
+FACT_STATEMENT	Surveillance images showed the boat sailing into the Gulf of Mexico about three and a half hours after the boys disappeared from their grandmother's home, investigators said, adding that the photos showed adults and children onboard.
